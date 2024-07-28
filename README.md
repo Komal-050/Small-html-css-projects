@@ -8,3 +8,6 @@
 
 3. CSS-Grid: Chess Board
 ![alt text](image-2.png)
+
+4. Grid Placement
+![alt text](image-3.png)
