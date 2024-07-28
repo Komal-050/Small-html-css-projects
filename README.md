@@ -11,3 +11,6 @@
 
 4. Grid Placement
 ![alt text](image-3.png)
+
+5. Combining Selectors
+![alt text](image-4.png)
