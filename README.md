@@ -14,3 +14,9 @@
 
 5. Combining Selectors
 ![alt text](image-4.png)
+
+6. Responsiveness
+![alt text](image-5.png)
+
+7. Mondrian Project
+![alt text](image-6.png)
